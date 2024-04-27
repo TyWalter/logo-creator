@@ -1,0 +1,19 @@
+{
+  "name": "homework10",
+  "version": "1.0.0",
+  "description": "This is a homework assignment where I had to use the terminal to create a logo based on user input.\r ## Description\r This README generator creates a README2.md file from a series of questions asked using the inquirer package through the termial and creates a professional README.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.7.0"
+  }
+}
