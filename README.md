@@ -5,7 +5,7 @@ This is a homework assignment where I had to use the terminal to create a logo b
 This logo generator is a simple logo creator based on user input and it creates an SVG file based on that input. 
 
 ## Visuals 
-* ![Here is a screenshot](./lib/images/screenshot.png) Here is a screenshot of an example created logo.svg
+* ![Here is a screenshot](./lib/screenshot.png) Here is a screenshot of an example created logo.svg
 
 * [Link to video demonstration](xxxxx)
 
