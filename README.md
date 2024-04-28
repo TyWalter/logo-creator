@@ -19,4 +19,4 @@ You can run tests to create shapes with different colors using jest
 Thank you to [Inquirer](https://www.npmjs.com/package/inquirer), [Inquirer maxlength input prompt](https://www.npmjs.com/package/inquirer-maxlength-input-prompt), and [Jest](https://www.npmjs.com/package/jest) for allowing me to use their packages.
 
 ## Support
-If you have any issues with this repo, shoot me an email at walterty89@gmail.com.
+If you have any issues with this repo, shoot me an email at walterty89@gmail.com. 
