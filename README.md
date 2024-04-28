@@ -7,7 +7,7 @@ This logo generator is a simple logo creator based on user input and it creates 
 ## Visuals 
 * ![Here is a screenshot](./lib/screenshot.png) Here is a screenshot of an example created logo.svg
 
-* [Link to video demonstration](xxxxx)
+* [Link to video demonstration](https://drive.google.com/file/d/1kfBXfPy3vyhzYRsxmnQ5UvF__OSjv8bw/view)
 
 ## Usage
 This is intended to create a simple logo so that a professional graphics designer is not needed. This is also for grading purposes.
