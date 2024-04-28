@@ -1,0 +1,4 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" x="0" y="0" rx="10" ry="10" fill="red" />
+  <text x="100" y="125" font-size="80" text-anchor="middle" fill="black">TJW</text>
+</svg>
